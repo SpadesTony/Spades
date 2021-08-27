@@ -1,20 +1,20 @@
 {
    "name": "Spades", 
    "logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361", 
-   "timestamp": 1610339529000, 
-   "tokens": [
-		{
-           "chainId": 1, 
-           "address": "TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW", 
-           "name": "Spades", 
-           "symbol": "SPADES", 
-           "decimals": 8, 
-           "logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361" 
+   "timestamp": 1622025224000, 
+   "version": 
+	{ 
+		"major": 1, 
+		"minor": 0, 
+		"patch": 0  
+	},
+   "tokens": [{
+			"symbol": "SPADES", 
+			"address": "TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW", 			
+			"chainId": 1, 
+			"decimals": 8, 
+			"name": "Spades", 
+			"logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361" 
        },
    ],
-   "version": { 
-       "major": 1, #Major version - Increment major version when tokens are removed;
-       "minor": 0, #Minor version - Increment minor version when tokens are added;
-       "patch": 0  #Patch version - Increment patch version when tokens already on the list have minor details changed (name, symbol, logo URL, decimals).
-   }
 } 
